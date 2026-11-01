@@ -1,0 +1,727 @@
+{
+  "version": 1,
+  "app_name": "Les grosses têtes - Statistiques de participations",
+  "updated_at": "2026-11-01",
+  "min_episode_date": "2026-08-24",
+  "generated_by": "merged_local_history_and_audiomeans_rss",
+  "episodes": [
+    {
+      "episode_id": "8d342510-1dfa-4c02-a75c-e4e73d5ae5c7",
+      "date": "2026-10-30",
+      "title": "L'INTÉGRALE - Émission du vendredi 30 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Guillaume de Tonquedec",
+        "Richard Orlinski",
+        "Valérie Mairesse",
+        "Liane Foly",
+        "Florian Gazan",
+        "Alexis Le Rossignol",
+        "AZ"
+      ]
+    },
+    {
+      "episode_id": "0182c420-28af-49d0-85ee-be72351598f1",
+      "date": "2026-10-29",
+      "title": "L'INTÉGRALE - Émission du jeudi 29 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Ethan Oliel",
+        "Caroline Diament",
+        "Sofia Belabbes",
+        "Franck Ferrand",
+        "Christophe Barbier",
+        "Paul El Kharrat"
+      ]
+    },
+    {
+      "episode_id": "d23bf264-2189-4a0e-b4f5-c84a38be4326",
+      "date": "2026-10-28",
+      "title": "L'INTÉGRALE - Émission du mercredi 28 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Ethan Oliel",
+        "Guillaume Gomez",
+        "Roselyne Bachelot",
+        "Chantal Ladesou",
+        "Christophe Barbier",
+        "Jérémy Ferrari"
+      ]
+    },
+    {
+      "episode_id": "1f10a507-87de-4576-822f-2030872ed3d8",
+      "date": "2026-10-27",
+      "title": "L'INTÉGRALE - Émission du mardi 27 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Caroline Diament",
+        "Alex Vizorek",
+        "Paul El Kharrat",
+        "Darie Boutboul",
+        "Christophe Beaugrand",
+        "Sébastien Thoen"
+      ]
+    },
+    {
+      "episode_id": "58f2b883-7fd4-4e75-9ed7-0de439aa8fae",
+      "date": "2026-10-26",
+      "title": "L'INTÉGRALE - Émission du lundi 26 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Roselyne Bachelot",
+        "François Alu",
+        "Gérard Jugnot",
+        "Bernard Mabille",
+        "Adil Rami",
+        "Franck Ferrand"
+      ]
+    },
+    {
+      "episode_id": "3934f36f-84d2-43bd-b639-2af94d8e3b37",
+      "date": "2026-10-23",
+      "title": "L'INTÉGRALE - Émission du vendredi 23 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "François-Henri Désérable",
+        "AZ",
+        "Caroline Diament",
+        "Adil Rami",
+        "Sylvie Tellier",
+        "Christophe Barbier",
+        "Olivier Bellamy"
+      ]
+    },
+    {
+      "episode_id": "2896b4a4-11d5-46d5-829f-a1460298f760",
+      "date": "2026-10-22",
+      "title": "L'INTÉGRALE - Émission du jeudi 22 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Alexis Le Rossignol",
+        "Charlotte de Turckheim",
+        "AZ",
+        "Jeanfi Janssens",
+        "Roselyne Bachelot",
+        "Philippe Claudel"
+      ]
+    },
+    {
+      "episode_id": "df6a0fa5-6dea-4e45-8d58-5de1ca23a970",
+      "date": "2026-10-21",
+      "title": "L'INTÉGRALE - Émission du mercredi 21 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Arielle Dombasle",
+        "Charlotte de Turckheim",
+        "Christophe Barbier",
+        "Michel Field",
+        "Adil Rami",
+        "Sébastien Thoen"
+      ]
+    },
+    {
+      "episode_id": "a5bcbeec-e107-4671-b2c8-ac3a766a0318",
+      "date": "2026-10-20",
+      "title": "L'INTÉGRALE - Émission du mardi 20 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Samuel Bambi",
+        "Booder",
+        "Sébastien Thoen",
+        "Caroline Diament",
+        "Michel Field",
+        "Constance"
+      ]
+    },
+    {
+      "episode_id": "e40de352-1f04-4fbd-a741-4150392621d9",
+      "date": "2026-10-19",
+      "title": "L'INTÉGRALE - Émission du lundi 19 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Vincent Niclo",
+        "Valérie Mairesse",
+        "Jeanfi Janssens",
+        "Karina Marimon",
+        "Bernard Mabille",
+        "Adil Rami",
+        "Florian Gazan"
+      ]
+    },
+    {
+      "episode_id": "17687490-b167-42c9-88b4-3ca24b67a373",
+      "date": "2026-10-16",
+      "title": "L'INTÉGRALE - Émission du vendredi 16 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Paul El Kharrat",
+        "Christophe Barbier",
+        "AZ",
+        "Caroline Diament",
+        "Yoann Riou",
+        "Gaël Tchakaloff"
+      ]
+    },
+    {
+      "episode_id": "2afd7242-b74d-4256-8fc2-ea1b45bfb7fc",
+      "date": "2026-10-15",
+      "title": "L'INTÉGRALE - Émission du jeudi 15 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Hélène Ségara",
+        "Jeanfi Janssens",
+        "Guillaume Gomez",
+        "Karine Le Marchand",
+        "Sébastien Thoen",
+        "Adil Rami",
+        "Charlotte de Turckheim"
+      ]
+    },
+    {
+      "episode_id": "93b0b7c1-7247-42fe-9298-01fda49a9f3f",
+      "date": "2026-10-14",
+      "title": "L'INTÉGRALE - Émission du mercredi 14 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Philippe Boxho",
+        "Gérard Jugnot",
+        "Arielle Dombasle",
+        "Booder",
+        "François-Xavier Demaison",
+        "Valérie Mairesse"
+      ]
+    },
+    {
+      "episode_id": "685adc6e-19f5-4c4a-8e4c-892ed96bce6c",
+      "date": "2026-10-13",
+      "title": "L'INTÉGRALE - Émission du mardi 13 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Sébastien Thoen",
+        "Valérie Damidot",
+        "Alex Vizorek",
+        "Christophe Beaugrand",
+        "Paul El Kharrat",
+        "Sylvie Tellier"
+      ]
+    },
+    {
+      "episode_id": "d4078ba8-aefb-4ae5-abcf-34b50cf77b42",
+      "date": "2026-10-12",
+      "title": "L'INTÉGRALE - Émission du lundi 12 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Pierre de Maere",
+        "Roselyne Bachelot",
+        "Gérard Jugnot",
+        "Karina Marimon",
+        "Adil Rami",
+        "Bernard Mabille",
+        "Richard Orlinski"
+      ]
+    },
+    {
+      "episode_id": "ab1c3282-ab39-47b9-99eb-7577b9759f56",
+      "date": "2026-10-09",
+      "title": "L'INTÉGRALE - 60 ans de RTL : émission du vendredi 9 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Karina Marimon",
+        "Jeanfi Janssens",
+        "Florian Gazan",
+        "Caroline Diament",
+        "Charlotte de Turckheim",
+        "Fabrice",
+        "Robert Charlebois"
+      ]
+    },
+    {
+      "episode_id": "218557cb-df4b-4ed3-b4d6-c5e6268927c0",
+      "date": "2026-10-08",
+      "title": "L'INTÉGRALE - 60 ans de RTL : émission du jeudi 8 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Bernard Mabille",
+        "Fabrice",
+        "Valérie Mairesse",
+        "Gérard Jugnot",
+        "Darie Boutboul",
+        "Max Boublil"
+      ]
+    },
+    {
+      "episode_id": "79fe2eb8-2b52-4631-8bcc-1ebea427702c",
+      "date": "2026-10-07",
+      "title": "L'INTÉGRALE - Émission du mercredi 7 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Gérard Jugnot",
+        "Michel Field",
+        "Florian Gazan",
+        "Sofia Belabbes",
+        "Sébastien Thoen",
+        "Arielle Dombasle"
+      ]
+    },
+    {
+      "episode_id": "035ffda2-64d4-416b-a40c-311e1112ebce",
+      "date": "2026-10-06",
+      "title": "L'INTÉGRALE - Émission du mardi 6 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Christine Bravo",
+        "Alexis Le Rossignol",
+        "Christophe Barbier",
+        "Kev Adams",
+        "Chantal Ladesou",
+        "Jeanfi Janssens",
+        "Adil Rami"
+      ]
+    },
+    {
+      "episode_id": "4b34f37c-beda-4767-be9a-1bba36ad4f6c",
+      "date": "2026-10-05",
+      "title": "L'INTÉGRALE - Émission du lundi 5 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Christine Bravo",
+        "AZ",
+        "Roman Doduik",
+        "Roselyne Bachelot",
+        "Booder",
+        "Alexis Le Rossignol"
+      ]
+    },
+    {
+      "episode_id": "63d0ae9e-b1f2-41bc-ae40-a3b5c33c3f04",
+      "date": "2026-10-02",
+      "title": "L'INTÉGRALE - Émission du vendredi 2 octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Claudia Tagbo",
+        "Philippe Geluck",
+        "Sylvie Tellier",
+        "Christophe Barbier",
+        "Caroline Diament",
+        "Alexis Tramoni",
+        "Paul El Kharrat"
+      ]
+    },
+    {
+      "episode_id": "82e7db39-2c89-4de4-8db9-22b2c3d5911d",
+      "date": "2026-10-01",
+      "title": "L'INTÉGRALE - Émission du jeudi 1er octobre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Chantal Ladesou",
+        "AZ",
+        "Alexis Tramoni",
+        "Paul El Kharrat",
+        "Philippe Geluck",
+        "Charlotte de Turckheim"
+      ]
+    },
+    {
+      "episode_id": "c06b8dc2-8276-46ac-893d-5f44f5b803f1",
+      "date": "2026-09-30",
+      "title": "L'INTÉGRALE - Émission du mercredi 30 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Philippe Geluck",
+        "Michel Field",
+        "Sébastien Thoen",
+        "Karina Marimon",
+        "Valérie Mairesse",
+        "Jérémy Ferrari"
+      ]
+    },
+    {
+      "episode_id": "2f82aa9f-c3cb-4548-87d6-f020c54b1405",
+      "date": "2026-09-29",
+      "title": "L'INTÉGRALE - Émission du mardi 29 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Fabrice",
+        "Sébastien Thoen",
+        "Christophe Beaugrand",
+        "Christine Ockrent",
+        "Caroline Diament",
+        "Booder"
+      ]
+    },
+    {
+      "episode_id": "dd8df7f3-f4b4-42c3-a726-3f853246e97a",
+      "date": "2026-09-28",
+      "title": "L'INTÉGRALE - Émission du lundi 28 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Franck Ferrand",
+        "Gérard Jugnot",
+        "Christine Bravo",
+        "Karine Le Marchand",
+        "Chantal Ladesou",
+        "Stomy Bugsy"
+      ]
+    },
+    {
+      "episode_id": "db729fa9-4a1b-418c-bb7a-7072df2121db",
+      "date": "2026-09-25",
+      "title": "L'INTÉGRALE - Émission du vendredi 25 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Roselyne Bachelot",
+        "Charlotte de Turckheim",
+        "Max Boublil",
+        "Caroline Diament",
+        "Yoann Riou",
+        "Bernard Mabille"
+      ]
+    },
+    {
+      "episode_id": "aedbf7c4-1ab4-4186-abd8-2829cf71ebfb",
+      "date": "2026-09-24",
+      "title": "L'INTÉGRALE - Émission du jeudi 24 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Philippe Boxho",
+        "Caroline Diament",
+        "François Alu",
+        "Charlotte de Turckheim",
+        "Thomas Marty",
+        "Gérard Jugnot"
+      ]
+    },
+    {
+      "episode_id": "10aa2814-abda-41ea-b7f1-05a8073743a1",
+      "date": "2026-09-23",
+      "title": "L'INTÉGRALE - Émission du mercredi 23 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Thomas Marty",
+        "Zize Dupanier",
+        "Alexis Le Rossignol",
+        "Jérémy Ferrari",
+        "Sébastien Thoen",
+        "Sylvie Tellier"
+      ]
+    },
+    {
+      "episode_id": "0bc9273a-becf-43d9-b9e6-0a85de1f5842",
+      "date": "2026-09-22",
+      "title": "L'INTÉGRALE - Émission du mardi 22 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Alban Ivanov",
+        "Karina Marimon",
+        "Liane Foly",
+        "Jeanfi Janssens",
+        "Fabrice",
+        "Christophe Beaugrand",
+        "Sébastien Thoen"
+      ]
+    },
+    {
+      "episode_id": "12d0720b-ab1d-4553-a611-045fb03e6091",
+      "date": "2026-09-21",
+      "title": "L'INTÉGRALE - Émission du lundi 21 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Dominique Besnehard",
+        "Chantal Ladesou",
+        "Christophe Barbier",
+        "Adil Rami",
+        "Valérie Damidot",
+        "Guillaume Gomez",
+        "AZ"
+      ]
+    },
+    {
+      "episode_id": "e91379d4-d2d8-49fd-9fc4-d9885f9defa6",
+      "date": "2026-09-18",
+      "title": "L'INTÉGRALE - Émission du vendredi 18 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Richard Orlinski",
+        "Jérémy Ferrari",
+        "Liane Foly",
+        "Olivier Bellamy",
+        "Sofia Belabbes",
+        "Paul El Kharrat"
+      ]
+    },
+    {
+      "episode_id": "fe1e5830-b9b8-44e7-b98e-f5efeab9997e",
+      "date": "2026-09-17",
+      "title": "L'INTÉGRALE - Émission du jeudi 17 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Dany Brillant",
+        "Charlotte de Turckheim",
+        "Paul El Kharrat",
+        "Alexis Le Rossignol",
+        "Arielle Dombasle",
+        "Yoann Riou",
+        "Philippe Claudel"
+      ]
+    },
+    {
+      "episode_id": "b49b730b-e92a-40cf-ad21-1360738dc541",
+      "date": "2026-09-16",
+      "title": "L'INTÉGRALE - Émission du mercredi 16 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Gaël Tchakaloff",
+        "Bernard Mabille",
+        "Thibaud Agoston",
+        "Fabrizio Bucella",
+        "Caroline Diament",
+        "Adil Rami"
+      ]
+    },
+    {
+      "episode_id": "5460b4d3-be7e-43e5-9376-f2502e2ef25c",
+      "date": "2026-09-15",
+      "title": "L'INTÉGRALE - Émission du mardi 15 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Michel Field",
+        "Jeanfi Janssens",
+        "Sylvie Tellier",
+        "Darie Boutboul",
+        "Booder",
+        "Sébastien Thoen"
+      ]
+    },
+    {
+      "episode_id": "3e7705cb-6375-404c-bbbd-85942d33ce2d",
+      "date": "2026-09-14",
+      "title": "L'INTÉGRALE - Émission du lundi 14 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Philippe Besson",
+        "Florian Gazan",
+        "Christophe Barbier",
+        "Valérie Mairesse",
+        "AZ",
+        "Booder",
+        "Karina Marimon"
+      ]
+    },
+    {
+      "episode_id": "24c815bb-d2fa-498c-8ee7-25c9c37d49c8",
+      "date": "2026-09-11",
+      "title": "L'INTÉGRALE - Émission du vendredi 11 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Francis Huster",
+        "Titoff",
+        "Roman Doduik",
+        "Roselyne Bachelot",
+        "Franck Ferrand",
+        "Sofia Belabbes",
+        "Alexis Le Rossignol"
+      ]
+    },
+    {
+      "episode_id": "7f325a4f-9400-4587-8d67-5bbd65268a95",
+      "date": "2026-09-10",
+      "title": "L'INTÉGRALE - Émission du jeudi 10 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Valérie Mairesse",
+        "Sébastien Thoen",
+        "Titoff",
+        "François Alu",
+        "Karina Marimon",
+        "Charlotte de Turckheim"
+      ]
+    },
+    {
+      "episode_id": "8998672b-6ed6-4397-9b8d-c7517b2ae9d3",
+      "date": "2026-09-09",
+      "title": "L'INTÉGRALE - Émission du mercredi 9 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Virginie Lemoine",
+        "François Berléand",
+        "AZ",
+        "Charlotte de Turckheim",
+        "Valérie Damidot",
+        "Florian Gazan",
+        "Guillaume Gomez"
+      ]
+    },
+    {
+      "episode_id": "0e608f44-f56c-4ec9-8d8c-bb80f66e9669",
+      "date": "2026-09-08",
+      "title": "L'INTÉGRALE - Émission du mardi 8 septembe 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Virginie Lemoine",
+        "François Berléand",
+        "AZ",
+        "Charlotte de Turckheim",
+        "Valérie Damidot",
+        "Florian Gazan",
+        "Guillaume Gomez"
+      ]
+    },
+    {
+      "episode_id": "a0501b0a-a006-479d-897d-b47eb10a5389",
+      "date": "2026-09-07",
+      "title": "L'INTÉGRALE - Émission du lundi 7 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Jérémy Ferrari",
+        "Karina Marimon",
+        "Yoann Riou",
+        "Christophe Barbier",
+        "Michel Field",
+        "Valérie Damidot"
+      ]
+    },
+    {
+      "episode_id": "5941a551-37ff-4390-9a06-fafd1cba0b3d",
+      "date": "2026-09-04",
+      "title": "L'INTÉGRALE - Émission du vendredi 4 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Valérie Damidot",
+        "Roselyne Bachelot",
+        "Franck Ferrand",
+        "Yoann Riou",
+        "Jeanfi Janssens",
+        "Michel Field"
+      ]
+    },
+    {
+      "episode_id": "919b0792-f6ed-4b1c-9f9d-968b3aad4677",
+      "date": "2026-09-03",
+      "title": "L'INTÉGRALE - Émission du jeudi 3 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Paul El Kharrat",
+        "Christine Bravo",
+        "Charlotte de Turckheim",
+        "Sofia Belabbes",
+        "Michel Field",
+        "Frédéric Beigbeder",
+        "Philippe Claudel"
+      ]
+    },
+    {
+      "episode_id": "ac62f44c-ef38-4d4d-b957-1668b8fa219c",
+      "date": "2026-09-02",
+      "title": "L'INTÉGRALE - Émission du mercredi 2 septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Alex Vizorek",
+        "Christophe Beaugrand",
+        "Richard Orlinski",
+        "Sylvie Tellier",
+        "Olivier Bellamy",
+        "Caroline Diament"
+      ]
+    },
+    {
+      "episode_id": "5bed41b4-b624-4ef7-8e1d-5811c48a1f57",
+      "date": "2026-09-01",
+      "title": "L'INTÉGRALE - Émission du mardi 1er septembre 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Charlotte de Turckheim",
+        "Valérie Mairesse",
+        "Christophe Barbier",
+        "Caroline Diament",
+        "Steevy Boulay",
+        "Bernard Mabille"
+      ]
+    },
+    {
+      "episode_id": "84306af2-34cb-48a6-8351-e5f1956451e4",
+      "date": "2026-08-31",
+      "title": "L'INTÉGRALE - Émission du lundi 31 aout 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Sébastien Thoen",
+        "Liane Foly",
+        "Alexis Le Rossignol",
+        "Michèle Bernier",
+        "Guillaume Gomez",
+        "Paul El Kharrat",
+        "Francis Perrin"
+      ]
+    },
+    {
+      "episode_id": "e577b19a-d8d3-4010-b933-19c67645770f",
+      "date": "2026-08-28",
+      "title": "L'INTÉGRALE - Émission du vendredi 28 aout 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Darie Boutboul",
+        "Arielle Dombasle",
+        "Yoann Riou",
+        "Stomy Bugsy",
+        "Alexis Le Rossignol",
+        "Max Boublil"
+      ]
+    },
+    {
+      "episode_id": "6220d3e1-d5fd-4f14-9945-041f5d5c19a5",
+      "date": "2026-08-27",
+      "title": "L'INTÉGRALE - Émission du jeudi 27 aout 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Samuel Bambi",
+        "Karine Dijoud",
+        "Alexis Le Rossignol",
+        "Caroline Diament",
+        "Fabrizio Bucella",
+        "Christophe Barbier"
+      ]
+    },
+    {
+      "episode_id": "9b2c9585-82d4-4a2a-a13b-685adbc234e1",
+      "date": "2026-08-26",
+      "title": "L'INTÉGRALE - Émission du mercredi 26 aout 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Valérie Mairesse",
+        "Adil Rami",
+        "Samuel Bambi",
+        "AZ",
+        "Florian Gazan",
+        "Roselyne Bachelot",
+        "François-Xavier Demaison"
+      ]
+    },
+    {
+      "episode_id": "9c4ca338-fe53-4a98-93e3-c384770c2347",
+      "date": "2026-08-25",
+      "title": "L'INTÉGRALE - Émission du mardi 25 aout 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Gérard Jugnot",
+        "Valérie Mairesse",
+        "AZ",
+        "Adil Rami",
+        "Karina Marimon",
+        "Jeanfi Janssens"
+      ]
+    },
+    {
+      "episode_id": "067952a1-7770-4f27-b48a-7217c2a447bf",
+      "date": "2026-08-24",
+      "title": "L'INTÉGRALE - Hommage à Philippe Bouvard : émission du lundi 24 août 2026",
+      "source": "audiomeans",
+      "participants": [
+        "Gérard Jugnot",
+        "Michèle Bernier",
+        "Jeanfi Janssens",
+        "Karina Marimon",
+        "Arielle Dombasle",
+        "Franck Ferrand"
+      ]
+    }
+  ]
+}
